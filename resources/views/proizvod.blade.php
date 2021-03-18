@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Laravel</title>
+    <title>Butik</title>
 
     <!-- Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
@@ -37,6 +37,7 @@
                 <h3><b> Kategorija:</b> {{ $proizvod->kategorija }}</h3>
             </div>
         </div>
+
     </div>
 
     <script src="../js/app.js"></script>

@@ -67046,7 +67046,7 @@ var Porudzbina = /*#__PURE__*/function (_Component) {
         className: "col"
       }, "Ime:", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("input", {
         name: "ime",
-        placeholder: "Milica",
+        placeholder: "Unesite ime..",
         onChange: this.handleChange.bind(this),
         type: "text",
         "class": "form-control"
@@ -67054,7 +67054,7 @@ var Porudzbina = /*#__PURE__*/function (_Component) {
         className: "col"
       }, "Prezime:", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("input", {
         name: "prezime",
-        placeholder: "Miljkovic",
+        placeholder: "Unesite prezime..",
         onChange: this.handleChange.bind(this),
         type: "text",
         "class": "form-control"
@@ -67064,7 +67064,7 @@ var Porudzbina = /*#__PURE__*/function (_Component) {
         className: "col"
       }, "Broj telefona:", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("input", {
         name: "broj_telefona",
-        placeholder: "+3816033122",
+        placeholder: "Unesite broj telefona..",
         onChange: this.handleChange.bind(this),
         type: "text",
         "class": "form-control"
@@ -67072,7 +67072,7 @@ var Porudzbina = /*#__PURE__*/function (_Component) {
         className: "col"
       }, "Adresa:", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("input", {
         name: "adresa",
-        placeholder: "Adresa",
+        placeholder: "Unesite adresu..",
         onChange: this.handleChange.bind(this),
         type: "text",
         "class": "form-control"
@@ -67082,7 +67082,7 @@ var Porudzbina = /*#__PURE__*/function (_Component) {
         className: "col"
       }, "Grad:", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("input", {
         name: "grad",
-        placeholder: "Beograd",
+        placeholder: "Unesite grad..",
         onChange: this.handleChange.bind(this),
         type: "text",
         "class": "form-control"
@@ -67090,7 +67090,7 @@ var Porudzbina = /*#__PURE__*/function (_Component) {
         className: "col"
       }, "Drzava:", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("input", {
         name: "drzava",
-        placeholder: "Srbija",
+        placeholder: "Unesite drzavu..",
         onChange: this.handleChange.bind(this),
         type: "text",
         "class": "form-control"

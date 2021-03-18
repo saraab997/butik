@@ -39,7 +39,7 @@ export default class Porudzbina extends Component {
                                 Ime:
                                 <input
                                     name="ime"
-                                    placeholder="Milica"
+                                    placeholder="Unesite ime.."
                                     onChange={this.handleChange.bind(this)}
                                     type="text"
                                     class="form-control"
@@ -49,7 +49,7 @@ export default class Porudzbina extends Component {
                                 Prezime:
                                 <input
                                     name="prezime"
-                                    placeholder="Miljkovic"
+                                    placeholder="Unesite prezime.."
                                     onChange={this.handleChange.bind(this)}
                                     type="text"
                                     class="form-control"
@@ -61,7 +61,7 @@ export default class Porudzbina extends Component {
                                 Broj telefona:
                                 <input
                                     name="broj_telefona"
-                                    placeholder="+3816033122"
+                                    placeholder="Unesite broj telefona.."
                                     onChange={this.handleChange.bind(this)}
                                     type="text"
                                     class="form-control"
@@ -71,7 +71,7 @@ export default class Porudzbina extends Component {
                                 Adresa:
                                 <input
                                     name="adresa"
-                                    placeholder="Adresa"
+                                    placeholder="Unesite adresu.."
                                     onChange={this.handleChange.bind(this)}
                                     type="text"
                                     class="form-control"
@@ -83,7 +83,7 @@ export default class Porudzbina extends Component {
                                 Grad:
                                 <input
                                     name="grad"
-                                    placeholder="Beograd"
+                                    placeholder="Unesite grad.."
                                     onChange={this.handleChange.bind(this)}
                                     type="text"
                                     class="form-control"
@@ -93,7 +93,7 @@ export default class Porudzbina extends Component {
                                 Drzava:
                                 <input
                                     name="drzava"
-                                    placeholder="Srbija"
+                                    placeholder="Unesite drzavu.."
                                     onChange={this.handleChange.bind(this)}
                                     type="text"
                                     class="form-control"
